@@ -4,7 +4,7 @@
 - 🌱 Estou Estudando JavaScript, Python & Java
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 
-<div align="center">
+<div align="center" style="width:100%">
   <a href="https://github.com/LuizHenrique91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenrique91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenrique91&layout=compact&langs_count=7&theme=dracula"/>
